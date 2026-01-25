@@ -1,9 +1,9 @@
 Personal Portfolio Website 💻
 
 **Project Description:**
- -This personal portfolio website is built to professionally showcase my projects, skills, and achievements.
- -It is designed to provide a clean, intuitive, and responsive user experience, ensuring visitors can explore my work effortlessly.
- -The project demonstrates my ability to structure content, present information effectively, and highlight practical and creative skills.
+ - This personal portfolio website is built to professionally showcase my projects, skills, and achievements.
+ - It is designed to provide a clean, intuitive, and responsive user experience, ensuring visitors can explore my work effortlessly.
+ - The project demonstrates my ability to structure content, present information effectively, and highlight practical and creative skills.
 
 **Key Features ⚡**
 - Project showcase with detailed descriptions.
