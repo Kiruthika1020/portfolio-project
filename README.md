@@ -1,4 +1,4 @@
-Personal Portfolio Website 💻
+Personal Portfolio Website 💳
 
 **Project Description:**
  - This personal portfolio website is built to professionally showcase my projects, skills, and achievements.
