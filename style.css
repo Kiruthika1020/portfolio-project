@@ -233,8 +233,8 @@ span{
     80%,
     85%{
         width: calc(100% + 8px);
-    }
-}
+       }
+}   
 .about{
     display: flex;
     justify-content: center;
