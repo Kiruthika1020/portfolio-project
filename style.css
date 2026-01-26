@@ -468,17 +468,19 @@ tech-used strong{
     justify-content: center;
     flex-wrap: wrap;
 }
-.contact form .input-box input,
-.contact form textarea{
-    width: 100%;
-    padding: 1.5rem;
-    font-size: 1.6rem;
-    color: var(--text-color);
-    background: var(--bg-color);
-    border-radius: 0.8rem;
-    border: 2px solid var(--main-color);
-    margin: 1rem 0;
-    resize: none;
+.contact p{
+    font-size: 20px;
+    margin: 12px 0;
+}
+.cotact-links a{
+    color: #61affd;
+    font-weight: 600;
+    text-decoration: none;
+    transition: color 0.2s,transform 0.2s;
+}
+.contact-links a:hover{
+    color:#f4aaaa;
+    transform: scale(1.05);
 }
 .contact form .btn{
     margin-top: 2rem;
@@ -533,7 +535,7 @@ tech-used strong{
 }
 .footer ul li{
     display: inline-block;
-    paddding: 0 15px;
+    padding: 0 15px;
 }
 .footer .copyright{
     margin-top: 50px;
