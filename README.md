@@ -17,4 +17,3 @@ Personal Portfolio Website 💳
 - Modern web design principles for responsive and user-friendly UI.
 - Focus on usability, accessibility, and professional presentation.
 
-(update)
